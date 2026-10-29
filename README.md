@@ -4,16 +4,16 @@ Version: Debian DNU/Linux 13 (trixie)
 ![proof](image.png)
 
 ## Default logins
-username: ps4linux
-password: ps4linux
+username: ps4linux \
+password: ps4linux \
 root password: ps4linux
 
 ## Preinstalled packages
-build-essential
-git
+build-essential \
+git \
 neovim
 
-PS4 SPECIFIC GRAPHICS DRIVERS ARE NOT INSTALLED.
+PS4 SPECIFIC GRAPHICS DRIVERS ARE NOT INSTALLED. \
 Swap is not pre-configured.
 
 ## Certificate error when using apt
